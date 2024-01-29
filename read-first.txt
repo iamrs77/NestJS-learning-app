@@ -1,3 +1,5 @@
 This is first time creating something in nestjs
 
-first thing: npm i -g @nestjs/cli@latest
+first thing: 
+  npm i -g @nestjs/cli@latest
+  nest new nestjs-api

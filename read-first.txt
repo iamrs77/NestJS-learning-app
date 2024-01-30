@@ -3,3 +3,13 @@ This is first time creating something in nestjs
 first thing: 
   npm i -g @nestjs/cli@latest
   nest new nestjs-api
+
+In NestJS APP
+    Get Request => Controller => Service
+
+To generate a new module for our application using cli@latest
+  "nest generate module pokemon"
+  "nest g service pokemon"
+  "nest g controller pokemon"
+              or
+  "nest g resource pokemon" -> creates module, controller and service + extra files

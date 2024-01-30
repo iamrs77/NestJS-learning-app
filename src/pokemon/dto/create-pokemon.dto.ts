@@ -1,3 +1,5 @@
 export class CreatePokemonDto {
-    name: string
+    id: number;
+    name: string;
+    weapon: string;
 }
